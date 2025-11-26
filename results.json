@@ -1,0 +1,502 @@
+[
+  {
+    "candidate_id": "8b54b92e-f926-49af-b10e-76b1ccdb09b9",
+    "name": null,
+    "fit_score_0_100": 59.39,
+    "components": {
+      "skill_match": 0.5714285714285714,
+      "experience_alignment": 0.5,
+      "education_match": 1.0,
+      "certifications_match": 0.0,
+      "semantic_similarity": 0.6020680807245744
+    },
+    "matched_skills": [
+      "aws",
+      "git",
+      "nosql",
+      "sql"
+    ],
+    "missing_required_skills": [
+      "docker",
+      "kubernetes",
+      "python"
+    ],
+    "nice_to_have_missing_skills": [],
+    "rationale": "Strong skill overlap (57%) including aws, git, nosql, sql. Experience appears below the required level. Missing required skills: docker, kubernetes, python."
+  },
+  {
+    "candidate_id": "13640ff3-fba8-4b9e-bb6b-ec9054b1a394",
+    "name": null,
+    "fit_score_0_100": 57.74,
+    "components": {
+      "skill_match": 0.5714285714285714,
+      "experience_alignment": 0.5,
+      "education_match": 1.0,
+      "certifications_match": 0.0,
+      "semantic_similarity": 0.49191301509181934
+    },
+    "matched_skills": [
+      "aws",
+      "nosql",
+      "python",
+      "sql"
+    ],
+    "missing_required_skills": [
+      "docker",
+      "git",
+      "kubernetes"
+    ],
+    "nice_to_have_missing_skills": [],
+    "rationale": "Strong skill overlap (57%) including aws, nosql, python, sql. Experience appears below the required level. Missing required skills: docker, git, kubernetes."
+  },
+  {
+    "candidate_id": "2966547f-2697-4e51-a130-392963378373",
+    "name": null,
+    "fit_score_0_100": 57.74,
+    "components": {
+      "skill_match": 0.5714285714285714,
+      "experience_alignment": 0.5,
+      "education_match": 1.0,
+      "certifications_match": 0.0,
+      "semantic_similarity": 0.49191301509181934
+    },
+    "matched_skills": [
+      "aws",
+      "nosql",
+      "python",
+      "sql"
+    ],
+    "missing_required_skills": [
+      "docker",
+      "git",
+      "kubernetes"
+    ],
+    "nice_to_have_missing_skills": [],
+    "rationale": "Strong skill overlap (57%) including aws, nosql, python, sql. Experience appears below the required level. Missing required skills: docker, git, kubernetes."
+  },
+  {
+    "candidate_id": "44fd3a9b-b61e-42a4-87b8-6d30266b2ae4",
+    "name": null,
+    "fit_score_0_100": 57.74,
+    "components": {
+      "skill_match": 0.5714285714285714,
+      "experience_alignment": 0.5,
+      "education_match": 1.0,
+      "certifications_match": 0.0,
+      "semantic_similarity": 0.49191301509181934
+    },
+    "matched_skills": [
+      "aws",
+      "nosql",
+      "python",
+      "sql"
+    ],
+    "missing_required_skills": [
+      "docker",
+      "git",
+      "kubernetes"
+    ],
+    "nice_to_have_missing_skills": [],
+    "rationale": "Strong skill overlap (57%) including aws, nosql, python, sql. Experience appears below the required level. Missing required skills: docker, git, kubernetes."
+  },
+  {
+    "candidate_id": "92ba0eb0-3a7a-4e3d-ad57-ff3e1e056d4f",
+    "name": null,
+    "fit_score_0_100": 57.74,
+    "components": {
+      "skill_match": 0.5714285714285714,
+      "experience_alignment": 0.5,
+      "education_match": 1.0,
+      "certifications_match": 0.0,
+      "semantic_similarity": 0.49191301509181934
+    },
+    "matched_skills": [
+      "aws",
+      "nosql",
+      "python",
+      "sql"
+    ],
+    "missing_required_skills": [
+      "docker",
+      "git",
+      "kubernetes"
+    ],
+    "nice_to_have_missing_skills": [],
+    "rationale": "Strong skill overlap (57%) including aws, nosql, python, sql. Experience appears below the required level. Missing required skills: docker, git, kubernetes."
+  },
+  {
+    "candidate_id": "335b0c02-7468-4d23-9bbc-c9bf731ab467",
+    "name": null,
+    "fit_score_0_100": 57.74,
+    "components": {
+      "skill_match": 0.5714285714285714,
+      "experience_alignment": 0.5,
+      "education_match": 1.0,
+      "certifications_match": 0.0,
+      "semantic_similarity": 0.49191301509181934
+    },
+    "matched_skills": [
+      "aws",
+      "nosql",
+      "python",
+      "sql"
+    ],
+    "missing_required_skills": [
+      "docker",
+      "git",
+      "kubernetes"
+    ],
+    "nice_to_have_missing_skills": [],
+    "rationale": "Strong skill overlap (57%) including aws, nosql, python, sql. Experience appears below the required level. Missing required skills: docker, git, kubernetes."
+  },
+  {
+    "candidate_id": "32886ef6-b168-4dba-9f07-eafb5695551b",
+    "name": null,
+    "fit_score_0_100": 57.74,
+    "components": {
+      "skill_match": 0.5714285714285714,
+      "experience_alignment": 0.5,
+      "education_match": 1.0,
+      "certifications_match": 0.0,
+      "semantic_similarity": 0.49191301509181934
+    },
+    "matched_skills": [
+      "aws",
+      "nosql",
+      "python",
+      "sql"
+    ],
+    "missing_required_skills": [
+      "docker",
+      "git",
+      "kubernetes"
+    ],
+    "nice_to_have_missing_skills": [],
+    "rationale": "Strong skill overlap (57%) including aws, nosql, python, sql. Experience appears below the required level. Missing required skills: docker, git, kubernetes."
+  },
+  {
+    "candidate_id": "1b750921-3c05-4645-9314-958203769f2e",
+    "name": null,
+    "fit_score_0_100": 57.74,
+    "components": {
+      "skill_match": 0.5714285714285714,
+      "experience_alignment": 0.5,
+      "education_match": 1.0,
+      "certifications_match": 0.0,
+      "semantic_similarity": 0.49191301509181934
+    },
+    "matched_skills": [
+      "aws",
+      "nosql",
+      "python",
+      "sql"
+    ],
+    "missing_required_skills": [
+      "docker",
+      "git",
+      "kubernetes"
+    ],
+    "nice_to_have_missing_skills": [],
+    "rationale": "Strong skill overlap (57%) including aws, nosql, python, sql. Experience appears below the required level. Missing required skills: docker, git, kubernetes."
+  },
+  {
+    "candidate_id": "f5cb8f5e-b94d-4e79-ad07-ef80e3e81e84",
+    "name": null,
+    "fit_score_0_100": 57.74,
+    "components": {
+      "skill_match": 0.5714285714285714,
+      "experience_alignment": 0.5,
+      "education_match": 1.0,
+      "certifications_match": 0.0,
+      "semantic_similarity": 0.49191301509181934
+    },
+    "matched_skills": [
+      "aws",
+      "nosql",
+      "python",
+      "sql"
+    ],
+    "missing_required_skills": [
+      "docker",
+      "git",
+      "kubernetes"
+    ],
+    "nice_to_have_missing_skills": [],
+    "rationale": "Strong skill overlap (57%) including aws, nosql, python, sql. Experience appears below the required level. Missing required skills: docker, git, kubernetes."
+  },
+  {
+    "candidate_id": "b066ddee-7cb6-423a-b95d-557f87372851",
+    "name": null,
+    "fit_score_0_100": 57.74,
+    "components": {
+      "skill_match": 0.5714285714285714,
+      "experience_alignment": 0.5,
+      "education_match": 1.0,
+      "certifications_match": 0.0,
+      "semantic_similarity": 0.49191301509181934
+    },
+    "matched_skills": [
+      "aws",
+      "nosql",
+      "python",
+      "sql"
+    ],
+    "missing_required_skills": [
+      "docker",
+      "git",
+      "kubernetes"
+    ],
+    "nice_to_have_missing_skills": [],
+    "rationale": "Strong skill overlap (57%) including aws, nosql, python, sql. Experience appears below the required level. Missing required skills: docker, git, kubernetes."
+  },
+  {
+    "candidate_id": "6d49674c-b823-4083-97e7-722269dfc19f",
+    "name": null,
+    "fit_score_0_100": 57.74,
+    "components": {
+      "skill_match": 0.5714285714285714,
+      "experience_alignment": 0.5,
+      "education_match": 1.0,
+      "certifications_match": 0.0,
+      "semantic_similarity": 0.49191301509181934
+    },
+    "matched_skills": [
+      "aws",
+      "nosql",
+      "python",
+      "sql"
+    ],
+    "missing_required_skills": [
+      "docker",
+      "git",
+      "kubernetes"
+    ],
+    "nice_to_have_missing_skills": [],
+    "rationale": "Strong skill overlap (57%) including aws, nosql, python, sql. Experience appears below the required level. Missing required skills: docker, git, kubernetes."
+  },
+  {
+    "candidate_id": "9d4dc857-c516-4267-9ae8-aa8a86373f83",
+    "name": null,
+    "fit_score_0_100": 57.74,
+    "components": {
+      "skill_match": 0.5714285714285714,
+      "experience_alignment": 0.5,
+      "education_match": 1.0,
+      "certifications_match": 0.0,
+      "semantic_similarity": 0.49191301509181934
+    },
+    "matched_skills": [
+      "aws",
+      "nosql",
+      "python",
+      "sql"
+    ],
+    "missing_required_skills": [
+      "docker",
+      "git",
+      "kubernetes"
+    ],
+    "nice_to_have_missing_skills": [],
+    "rationale": "Strong skill overlap (57%) including aws, nosql, python, sql. Experience appears below the required level. Missing required skills: docker, git, kubernetes."
+  },
+  {
+    "candidate_id": "e102017b-9453-450d-aa27-29abeaa64a0d",
+    "name": null,
+    "fit_score_0_100": 57.74,
+    "components": {
+      "skill_match": 0.5714285714285714,
+      "experience_alignment": 0.5,
+      "education_match": 1.0,
+      "certifications_match": 0.0,
+      "semantic_similarity": 0.49191301509181934
+    },
+    "matched_skills": [
+      "aws",
+      "nosql",
+      "python",
+      "sql"
+    ],
+    "missing_required_skills": [
+      "docker",
+      "git",
+      "kubernetes"
+    ],
+    "nice_to_have_missing_skills": [],
+    "rationale": "Strong skill overlap (57%) including aws, nosql, python, sql. Experience appears below the required level. Missing required skills: docker, git, kubernetes."
+  },
+  {
+    "candidate_id": "dce6ae77-ed4a-4ef8-8f6b-6e736555aafb",
+    "name": null,
+    "fit_score_0_100": 57.74,
+    "components": {
+      "skill_match": 0.5714285714285714,
+      "experience_alignment": 0.5,
+      "education_match": 1.0,
+      "certifications_match": 0.0,
+      "semantic_similarity": 0.49191301509181934
+    },
+    "matched_skills": [
+      "aws",
+      "nosql",
+      "python",
+      "sql"
+    ],
+    "missing_required_skills": [
+      "docker",
+      "git",
+      "kubernetes"
+    ],
+    "nice_to_have_missing_skills": [],
+    "rationale": "Strong skill overlap (57%) including aws, nosql, python, sql. Experience appears below the required level. Missing required skills: docker, git, kubernetes."
+  },
+  {
+    "candidate_id": "36613fef-8d22-4e86-9a2a-58b37cdec8e8",
+    "name": null,
+    "fit_score_0_100": 57.74,
+    "components": {
+      "skill_match": 0.5714285714285714,
+      "experience_alignment": 0.5,
+      "education_match": 1.0,
+      "certifications_match": 0.0,
+      "semantic_similarity": 0.49191301509181934
+    },
+    "matched_skills": [
+      "aws",
+      "nosql",
+      "python",
+      "sql"
+    ],
+    "missing_required_skills": [
+      "docker",
+      "git",
+      "kubernetes"
+    ],
+    "nice_to_have_missing_skills": [],
+    "rationale": "Strong skill overlap (57%) including aws, nosql, python, sql. Experience appears below the required level. Missing required skills: docker, git, kubernetes."
+  },
+  {
+    "candidate_id": "786ca63d-021f-4d24-b430-7e831ceedb98",
+    "name": null,
+    "fit_score_0_100": 57.74,
+    "components": {
+      "skill_match": 0.5714285714285714,
+      "experience_alignment": 0.5,
+      "education_match": 1.0,
+      "certifications_match": 0.0,
+      "semantic_similarity": 0.49191301509181934
+    },
+    "matched_skills": [
+      "aws",
+      "nosql",
+      "python",
+      "sql"
+    ],
+    "missing_required_skills": [
+      "docker",
+      "git",
+      "kubernetes"
+    ],
+    "nice_to_have_missing_skills": [],
+    "rationale": "Strong skill overlap (57%) including aws, nosql, python, sql. Experience appears below the required level. Missing required skills: docker, git, kubernetes."
+  },
+  {
+    "candidate_id": "60a8ac21-bb8d-4794-8f32-de85fcca1431",
+    "name": null,
+    "fit_score_0_100": 57.74,
+    "components": {
+      "skill_match": 0.5714285714285714,
+      "experience_alignment": 0.5,
+      "education_match": 1.0,
+      "certifications_match": 0.0,
+      "semantic_similarity": 0.49191301509181934
+    },
+    "matched_skills": [
+      "aws",
+      "nosql",
+      "python",
+      "sql"
+    ],
+    "missing_required_skills": [
+      "docker",
+      "git",
+      "kubernetes"
+    ],
+    "nice_to_have_missing_skills": [],
+    "rationale": "Strong skill overlap (57%) including aws, nosql, python, sql. Experience appears below the required level. Missing required skills: docker, git, kubernetes."
+  },
+  {
+    "candidate_id": "726865c3-d59e-47fa-aa05-05bb251b3eea",
+    "name": null,
+    "fit_score_0_100": 57.74,
+    "components": {
+      "skill_match": 0.5714285714285714,
+      "experience_alignment": 0.5,
+      "education_match": 1.0,
+      "certifications_match": 0.0,
+      "semantic_similarity": 0.49191301509181934
+    },
+    "matched_skills": [
+      "aws",
+      "nosql",
+      "python",
+      "sql"
+    ],
+    "missing_required_skills": [
+      "docker",
+      "git",
+      "kubernetes"
+    ],
+    "nice_to_have_missing_skills": [],
+    "rationale": "Strong skill overlap (57%) including aws, nosql, python, sql. Experience appears below the required level. Missing required skills: docker, git, kubernetes."
+  },
+  {
+    "candidate_id": "acd04e04-7d84-4cec-babb-8296b183474a",
+    "name": null,
+    "fit_score_0_100": 56.92,
+    "components": {
+      "skill_match": 0.5714285714285714,
+      "experience_alignment": 0.5,
+      "education_match": 1.0,
+      "certifications_match": 0.0,
+      "semantic_similarity": 0.43748813892694854
+    },
+    "matched_skills": [
+      "git",
+      "nosql",
+      "python",
+      "sql"
+    ],
+    "missing_required_skills": [
+      "aws",
+      "docker",
+      "kubernetes"
+    ],
+    "nice_to_have_missing_skills": [],
+    "rationale": "Strong skill overlap (57%) including git, nosql, python, sql. Experience appears below the required level. Missing required skills: aws, docker, kubernetes."
+  },
+  {
+    "candidate_id": "7057ece5-381e-4da3-bcc0-c02f82dd1409",
+    "name": null,
+    "fit_score_0_100": 56.92,
+    "components": {
+      "skill_match": 0.5714285714285714,
+      "experience_alignment": 0.5,
+      "education_match": 1.0,
+      "certifications_match": 0.0,
+      "semantic_similarity": 0.43748813892694854
+    },
+    "matched_skills": [
+      "git",
+      "nosql",
+      "python",
+      "sql"
+    ],
+    "missing_required_skills": [
+      "aws",
+      "docker",
+      "kubernetes"
+    ],
+    "nice_to_have_missing_skills": [],
+    "rationale": "Strong skill overlap (57%) including git, nosql, python, sql. Experience appears below the required level. Missing required skills: aws, docker, kubernetes."
+  }
+]
