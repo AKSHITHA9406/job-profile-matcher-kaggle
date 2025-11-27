@@ -189,25 +189,4 @@ Use the `/match` endpoint for **single-job + multiple resumes upload**.
 
 ---
 
-## 7. How You Can Turn This Into a GitHub Repo
-
-1. Create a new empty GitHub repo (via the GitHub website).
-2. On your laptop:
-
-```bash
-cd job-profile-matcher-kaggle
-git init
-git remote add origin https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
-git add .
-git commit -m "Initial commit: AI Job & Resume Matcher with Kaggle integration"
-git push -u origin main
-```
-
-Then your project will look clean & professional, just like the Anime Chatbot repo you showed me — but for **job & resume matching**.
-
----
-
-If you want, I can next:
-- Add a **simple frontend** (Streamlit or React)
-- Add **evaluation notebooks** for experiments on the Kaggle dataset
-- Add **charts/plots** to analyze skills vs roles.
+lls vs roles.
